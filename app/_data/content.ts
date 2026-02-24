@@ -3,8 +3,8 @@ export const content = {
   title: "Model & Creator",
   tagline: "Welcome.. find my spicy links here. Will you send me a message babe?",
   ctas: [
-    { label: "Onlyfans", href: "https://onlyfans.com/naomivanstraatten", brand: "onlyfans" },
-    { label: "F2F", href: "https://f2f.com/naomivanstraatten", brand: "f2f" },
+    { label: "Onlyfans", href: "https://onlyfans.com/naomivanstraatten/c1", brand: "onlyfans" },
+    { label: "F2F", href: "https://f2f.com/s/q71HJl", brand: "f2f" },
   ],
   gallery: Array.from({ length: 19 }).map((_, i) =>
     `/gallery/${String(i + 1).padStart(3, "0")}.jpg`
