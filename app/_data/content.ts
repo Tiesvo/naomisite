@@ -1,7 +1,7 @@
 export const content = {
   name: "Naomi",
   title: "Model & Creator",
-  tagline: "60 and still having fun 👀 Come to say hi 😊",
+  tagline: "60 and still having Fun 👀 Come to say hi 😊",
   ctas: [
     { label: "Onlyfans", href: "https://onlyfans.com/naomivanstraatten/c1", brand: "onlyfans" },
     { label: "F2F", href: "https://f2f.com/s/q71HJl", brand: "f2f" },
